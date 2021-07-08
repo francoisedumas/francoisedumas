@@ -6,4 +6,5 @@ After 9 years of international experiences at Essilor in supply chain, e-commerc
 - 🔭 I’m currently working with Kuartz.fr
 - 🌱 I’m currently perfectionning VueJS
 - 👯 I’m open to freelance projects
-- 📫 You can message me on Linkedin: https://www.linkedin.com/in/francois-dumas-lattaque/
+- 📫 You can message me on [Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)
+- 📖 Or discover more on [my website](https://francoisedumas.github.io/profile/)
