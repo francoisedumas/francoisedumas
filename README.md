@@ -1,13 +1,24 @@
 ### Hi, I'm Francois 👋
 
-I'm a Ruby on Rails developer 💻 but I can also develop with Express, Feather and VueJS
-I have an international background in the ophtalmic business 🕶 in Asia and Europe.
-I am a freelance web developer, and teacher at Le Wagon 🚃
-I'm a curious and enthusiast person, always eager to learn 🎓
-Want to talk about a project, [contact me 📧](https://fdlab.me)
+👉 I'm a Rails full stack freelancer with 3 years of experience
+🌎 I have an international background from my previous life working in the ophthalmic business 🕶 in Asia and Europe.
+💻 I have already 8 satisfied customers under my belt ([your can see the recommendations on Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)).
+🎓 I'm a curious and enthusiast person, always eager to learn
+📫 Want to talk about a project? You can message me on [Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)
+📖 Discover more on [my personal website](https://francois-dl.netlify.app/)
 
-- 🔭 I’m currently working with Prosoon (Decentralized iDentifiers, Verifiable Credentials, Polygon blockchain)
-- 🌱 I’m perfectionning my blockchain knowledge!
-- 👯 I’m open to freelance projects
-- 📫 You can message me on [Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)
-- 📖 Or through [my personal website](https://fdlab.me)
+Tech skills:
+✅ Ruby / Ruby on Rails / Rspec / Minitest
+✅ Javascript / Stimulus.js / Hotwire
+✅ PostgreSQL / Redis / Sidekiq / ActionCable
+✅ Heroku / CleverCloud / Github / Gandi
+✅ Responsive Design / PWA
+✅ Slim / View components / Tailwind / Bootstrap
+✅ Stripe / API
+✅ Devise / Pundit / Cloudinary / Mapbox / Geocoder
+
+Soft skills:
+🤹🏼 Multilingual (French, English, Portuguese)
+🤹🏼 Experienced project manager
+🤹🏼 Collaborative and curious person
+🤹🏼 Autonomous and reliable worker
