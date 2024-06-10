@@ -1,5 +1,7 @@
 ### Hi, I'm Francois 👋
 
+See my [Tech YouTub channel here!](https://www.youtube.com/@FrancoisDevTech/videos) (RoR content in French!)
+
 - 👉 I'm a Rails full stack freelancer with 3 years of experience
 - 🌎 I have an international background from my previous life working in the ophthalmic business 🕶 in Asia and Europe.
 - 💻 I have already 8 satisfied customers under my belt ([your can see the recommendations on Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)).
