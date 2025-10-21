@@ -17,7 +17,7 @@ Tech skills:
 - ✅ Responsive Design / PWA
 - ✅ Slim / View components / Tailwind / Bootstrap
 - ✅ Stripe / API (REST & GraphQL)
-- ✅ Devise / Pundit / OWASP / Security audit
+- ✅ Devise / Pundit / OWASP / Security audit / Grafana / RabbitMQ
 - ✅ Cloudinary / Mapbox / Geocoder / Gandi
 
 Soft skills:
