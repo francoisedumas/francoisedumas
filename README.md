@@ -4,7 +4,7 @@ See my [Tech YouTub channel here!](https://www.youtube.com/@KokoriKodo/videos) (
 
 - 👉 I'm a Rails full stack freelancer with 5 years of experience
 - 🌎 I have an international background from my previous life working in the ophthalmic business 🕶 in Asia and Europe.
-- 💻 I have already 10 satisfied customers under my belt ([your can see the recommendations on Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)).
+- 💻 I have already 10 satisfied customers under my belt ([you can see the recommendations on Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)).
 - 🎓 I'm a curious and enthusiast person, always eager to learn
 - 📫 Want to talk about a project? You can message me on [Linkedin](https://www.linkedin.com/in/francois-dumas-lattaque/)
 - 📖 Discover more on [my personal website](https://francois-dl.netlify.app/)
